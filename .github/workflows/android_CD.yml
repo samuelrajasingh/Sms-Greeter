@@ -29,6 +29,6 @@ jobs:
       with:
         tag_name: ${{ steps.get_version.outputs.version }}
         asset_path: app/build/outputs/apk/debug/app-debug.apk
-        asset_name: theBanker.apk
+        asset_name: Wisher.apk
         asset_content_type: application/zip
-      
+
