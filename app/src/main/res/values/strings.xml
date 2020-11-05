@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wisher</string>
+    <string name="send_greeting">Send greeting</string>
+    <string name="max_50_words">max. 50 words</string>
+    <string name="enter_message">Enter message</string>
+    <string name="greeting_sent">greeting sent.</string>
+    <string name="greetings_logo">Greetings Logo</string>
+    <string name="ok">OK</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="continue_">continue</string>
+    <string name="enter_receiver_s_nphone_number">Enter receiver\'s\nphone number</string>
+    <string name="search">Search</string>
+    <string name="or">or</string>
+    <string name="select">Select</string>
+    <string name="select_receiver_s_ncontact">Select receiver\'s\ncontact</string>
+    <string name="quit">Quit</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="one">1</string>
+    <string name="four">4</string>
+</resources>
