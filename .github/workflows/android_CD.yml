@@ -17,6 +17,7 @@ jobs:
       with:
         java-version: 1.8
     - name: Build debug apk
+      run: chmod +x gradlew
       run: ./gradlew clean assembleDebug
 
     - name: Get latest release version number
